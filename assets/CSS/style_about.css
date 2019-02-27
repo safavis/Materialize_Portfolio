@@ -1,0 +1,13 @@
+.image{
+    display: inline-block;
+    margin-right: 0px;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    /* margin: 7px 250px 10px 10px; */
+}
+.bio_text{
+    display: inline-block;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}

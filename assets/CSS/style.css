@@ -1,0 +1,51 @@
+.navbar{
+    height: 5vh;
+    width: 100vw;
+}
+.no-shadows {
+    box-shadow: none;
+    margin: 0px 0px 0px 0px;
+}
+.title_name_left_margin{
+    margin-left: 10vw;
+    font-family: 'Georgia', Times , Times New Roman, serif;
+
+}
+.contact_right_margin{
+    margin-right: 10vw;
+}
+.right_border_line{
+    border-right: 2px solid #cccccc;
+}
+.grey_container{
+    background-image: url("../image/bachground.jpg");
+    border-top: 5px solid #cccccc;
+    margin: 0px 0px 0px 0px;
+    padding: 0vh 0vw 0vh 0vw;
+    width: 100vw;
+    height: 90vh; 
+}
+.white_page{
+    background-color: white;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    border: 2px solid #dddddd;
+    /* height: 50vh; */
+}
+.white_page_header{
+color: teal;
+font-family: 'Georgia', Times , Times New Roman, serif;
+border-bottom: 2px solid #dddddd;
+margin-left: 20px;
+margin-right: 20px;
+margin-top:20px;
+text-align: left;
+height: 10vh;
+}
+.footer{
+    background-color: #666666;
+    height: 10vh;
+    width: 100vw;
+    border-top: 10px solid teal;
+    text-align: center
+}
