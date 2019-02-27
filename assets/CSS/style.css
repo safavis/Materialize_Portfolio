@@ -7,8 +7,9 @@
     margin: 0px 0px 0px 0px;
 }
 .title_name_left_margin{
-    margin-left: 10vw;
+    margin-left: 0vw;
     font-family: 'Georgia', Times , Times New Roman, serif;
+    font-size: 39pt;
 
 }
 .contact_right_margin{
@@ -25,6 +26,28 @@
     width: 100vw;
     height: 90vh; 
 }
+@media only screen and (max-width: 640px)
+{.grey_container{
+    height: 180vh;}
+.navbar{
+    height: 15vh;
+}
+.title-name-left-margin{
+    margin-left: 0vw;
+    height: 30vh;
+    width:7vw;}
+.contact_right_margin{
+    margin-right: 20vw;
+}
+}
+@media only screen and (min-width: 640px) and (max-width: 760px)
+{
+    .title-name-left-margin{
+        margin-left: 5vw;
+        background-color: red;
+    }
+    }
+    
 .white_page{
     background-color: white;
     margin-top: 10vh;

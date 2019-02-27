@@ -13,3 +13,12 @@
 
 
 }
+@media only screen and (max-width: 600px)
+{
+.image_portfolio{
+    margin-left: 10px;
+}
+.button{
+    margin-left: 0px;
+}
+}
